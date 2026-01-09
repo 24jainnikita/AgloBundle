@@ -1,9 +1,6 @@
 # AlgoBundle📚
 
-AlgoBundle is a comprehensive DSA (Data Structures and Algorithms) management web application designed to help users track, practice, and monitor their progress on DSA problems. The application supports both frontend and backend features, making it ideal for users preparing for coding interviews and improving their problem-solving skills. 🎯
-
-🔗 View AlgoBundle API Collection – A RESTful backend built with Spring Boot to manage DSA questions, including search and filter functionality.
-https://anshitajain-187606.postman.co/workspace/Anshita-Jain's-Workspace~d0654ce3-6bca-4fde-86b2-9b79336103c2/collection/45291998-50912e72-af84-47ab-998f-06bcc161355c?action=share&creator=45291998
+AlgoBundle is a curated repository of Data Structures and Algorithms solutions designed to strengthen problem-solving skills and algorithmic thinking for coding interview preparation.
 
 # ✨Features
 
@@ -63,7 +60,7 @@ MySQL server running
 
 ## Frontend
 
-Clone the repository: git clone https://github.com/Anshita0310/AlgoBundle.git
+Clone the repository: git clone https://github.com/24jainnikita/AlgoBundle.git
 
 Navigate to the frontend directory: cd algobundle-fe
 
@@ -125,10 +122,10 @@ Open a pull request.
 
 For any questions or suggestions:
 
-Email: anshitajain0310@gmail.com
+Email: 247jainnikita@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/anshita-jain-0b7100263/
+LinkedIn: https://www.linkedin.com/in/24jainnikita/
 
-GitHub: https://github.com/Anshita0310
+GitHub: https://github.com/24jainnikita
 
 # Thank you for visiting AlgoBundle! Happy Coding! 🧑‍💻
